@@ -1,4 +1,4 @@
-# ✈️ AmericanAirlinesSkyApi
+#  AmericanAirlinesSkyApi
 
 API desenvolvida para a disciplina de Sistemas Distribuídos e Mobile (UNA), simulando o gerenciamento de voos, aeronaves e reservas.
 
