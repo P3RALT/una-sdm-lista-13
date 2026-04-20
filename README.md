@@ -46,14 +46,4 @@ Para evitar conflitos em reservas simultâneas:
 * Optimistic Concurrency (mais usada)
 * Pessimistic Locking
 
----
 
-## 📸 Evidências
-
-Os testes realizados podem ser visualizados na pasta `/prints`.
-
----
-
-## 👨‍💻 Autor
-
-Bernardo Araújo
